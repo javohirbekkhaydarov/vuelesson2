@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Playfair Display", serif;
+}
+
+:root {
+  --loginbg: #ff0000;
+}
+
+.loginbtn {
+  border: 0;
+  background: var(--loginbg);
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.signup {
+  border: 0;
+  background: rgb(53, 118, 118);
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
