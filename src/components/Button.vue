@@ -12,6 +12,7 @@ export default {
 
 <template>
   <button class="loginbtn">{{ name }}</button>
+
 </template>
 
 <style></style>
