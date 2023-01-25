@@ -13,6 +13,7 @@ export default {
 
 <template>
   <div class="app">
+
     <HomePage />
     <CounterComponent />
   </div>
